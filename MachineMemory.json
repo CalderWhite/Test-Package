@@ -4,6 +4,11 @@
             "IS": [
                 "fantastic"
             ]
+        },
+        "octocat": {
+            "IS":[
+                "octotastic"
+            ]
         }
     }
 }
